@@ -8,17 +8,15 @@ Instructions on how to use them in your own application are linked below.
 
 
 ### Subset 0
-#
-#
+
+
 | Subset ID | Name | Last Update | Modality | Format | Size | Parent | Purpose |
 | ------ | ------ | ------ | ----- |  ----- | ----- | ------ | -------|
 | Dropbox | [plugins/dropbox/README.md][PlDb] | 8-23-2019 | Tabular | Int | 200 kb | 0 | The positive/negative blood culturing results are essentieal for the prediction of blood stream infections| 
 
 
 ##### Features of  Subset 0
-#
-#
-
+ 
 
 | Feature ID | Date of Introduction | Name | Value | Meaning_ NA_NULL_ NONE_OTHER | Meaning_Zero | Meaning_BlankVoid | Definition |  Purpose | Encoding |
 | ------ | ------ | ----- |  ----- | ----- | ------ | ------- | ------ | ----- | ---- |
@@ -26,19 +24,18 @@ Instructions on how to use them in your own application are linked below.
 | Google Drive | 8-23-2019 | Excel | Int | 200 kb | 0 | Not recorded or lost.|  Additional information on sampling, e.g. how or shere the blood sample was taken anatomically | important for prediction of BSI | none |
 | Medium | 8-23-2019 | SQL |Int | 200 kb | 0 | Not possible in format.| Some definition | could be correlated to BSI risk and focus of infection |none |
 
+----
 
 ### Subset 1
-#
-#
+ 
+ 
 
 | Subset ID | Name | Last Update | Modality | Format | Size | Parent | Purpose |
 | ------ | ------ | ------ | ----- |  ----- | ----- | ------ | -------|
 | GitHub | [plugins/github/README.md][PlGh] |8-23-2019 | Data | Int | 200 kb | 0 | The positive/negative blood culturing results are essentieal for the prediction of blood stream infections| 
 
 ##### Features of Subset 1
-#
-#
-
+ 
  
 | Feature ID | Date of Introduction | Name | Value | Meaning_ NA_NULL_ NONE_OTHER | Meaning_Zero | Meaning_BlankVoid | Definition |  Purpose | Encoding |
 | ------ | ------ | ----- |  ----- | ----- | ------ | ------- | ------ | ----- | ---- |
@@ -46,18 +43,19 @@ Instructions on how to use them in your own application are linked below.
 | Google Drive | 8-23-2019 | Excel | Int | 200 kb | 0 | Not recorded or lost.|  Additional information on sampling, e.g. how or shere the blood sample was taken anatomically | important for prediction of BSI | none |
 | Medium | 8-23-2019 | SQL |Int | 200 kb | 0 | Not possible in format.| Some definition | could be correlated to BSI risk and focus of infection |none |
 
+----
+
 ### Subset 2
-#
-#
+ 
+ 
 | Subset ID | Name | Last Update | Modality | Format | Size | Parent | Purpose |
 | ------ | ------ | ------ | ----- |  ----- | ----- | ------ | -------|
 | Google Drive | [plugins/googledrive/README.md][PlGd] |8-23-2019 | Excel | Int | 200 kb | 0 | The positive/negative blood culturing results are essentieal for the prediction of blood stream infections| 
 
 ##### Features of Subset 2
-#
-#
 
- 
+
+
 | Feature ID | Date of Introduction | Name | Value | Meaning_ NA_NULL_ NONE_OTHER | Meaning_Zero | Meaning_BlankVoid | Definition |  Purpose | Encoding |
 | ------ | ------ | ----- |  ----- | ----- | ------ | ------- | ------ | ----- | ---- |
 | GitHub | 8-23-2019 | Data | Int | 200 kb | 0 | Not possible in format.| Date the sample was received at KMA | this could be important for prediction of BSI | none |
@@ -65,17 +63,17 @@ Instructions on how to use them in your own application are linked below.
 | Medium | 8-23-2019 | SQL |Int | 200 kb | 0 | Not possible in format.| Some definition | could be correlated to BSI risk and focus of infection |none |
 
 ### Subset 3
-#
-#
+
+
+
 | Subset ID | Name | Last Update | Modality | Format | Size | Parent | Purpose |
 | ------ | ------ | ------ | ----- |  ----- | ----- | ------ | -------|
 | OneDrive | [plugins/onedrive/README.md][PlOd] |8-23-2019 | sheetfile | Int | 200 kb | 0 | The positive/negative blood culturing results are essentieal for the prediction of blood stream infections| 
 
 ##### Features of Subset 3
-#
-#
 
- 
+
+
 | Feature ID | Date of Introduction | Name | Value | Meaning_ NA_NULL_ NONE_OTHER | Meaning_Zero | Meaning_BlankVoid | Definition |  Purpose | Encoding |
 | ------ | ------ | ----- |  ----- | ----- | ------ | ------- | ------ | ----- | ---- |
 | GitHub | 8-23-2019 | Data | Int | 200 kb | 0 | Not possible in format.| Date the sample was received at KMA | this could be important for prediction of BSI | none |
@@ -84,16 +82,17 @@ Instructions on how to use them in your own application are linked below.
 
 
 ### Subset 4
-#
-#
+
+
+
 | Subset ID | Name | Last Update | Modality | Format | Size | Parent | Purpose |
 | ------ | ------ | ------ | ----- |  ----- | ----- | ------ | -------|
 | Medium | [plugins/medium/README.md][PlMe] |8-23-2019 | SQL |Int | 200 kb | 0 | The positive/negative blood culturing results are essentieal for the prediction of blood stream infections| 
 
 ##### Features of Subset 4
-#
-#
- 
+
+
+
 | Feature ID | Date of Introduction | Name | Value | Meaning_ NA_NULL_ NONE_OTHER | Meaning_Zero | Meaning_BlankVoid | Definition |  Purpose | Encoding |
 | ------ | ------ | ----- |  ----- | ----- | ------ | ------- | ------ | ----- | ---- |
 | GitHub | 8-23-2019 | Data | Int | 200 kb | 0 | Not possible in format.| Date the sample was received at KMA | this could be important for prediction of BSI | none |
@@ -101,8 +100,8 @@ Instructions on how to use them in your own application are linked below.
 | Medium | 8-23-2019 | SQL |Int | 200 kb | 0 | Not possible in format.| Some definition | could be correlated to BSI risk and focus of infection |none |
 
 ### Subset 5
-#
-#
+
+
 
 | Subset ID | Name | Last Update | Modality | Format | Size | Parent | Purpose |
 | ------ | ------ | ------ | ----- |  ----- | ----- | ------ | -------|
@@ -111,9 +110,9 @@ Instructions on how to use them in your own application are linked below.
 
 
 ##### Features of Subset 5
-#
-#
- 
+
+
+
 | Feature ID | Date of Introduction | Name | Value | Meaning_ NA_NULL_ NONE_OTHER | Meaning_Zero | Meaning_BlankVoid | Definition |  Purpose | Encoding |
 | ------ | ------ | ----- |  ----- | ----- | ------ | ------- | ------ | ----- | ---- |
 | GitHub | 8-23-2019 | Data | Int | 200 kb | 0 | Not possible in format.| Date the sample was received at KMA | this could be important for prediction of BSI | none |
